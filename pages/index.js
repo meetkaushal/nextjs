@@ -4,13 +4,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     
-    <div>
-      Who Let the Dogs Out
 
-
-
-
-    </div>
     
     
     
@@ -23,6 +17,13 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+
+
+        Who let the dogs out
+
+
+
+
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
